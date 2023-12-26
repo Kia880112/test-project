@@ -10,3 +10,6 @@ this is also a test.
 8
 kjhkjj
 dfghhhhjj
+
+after add stage to commit
+... i should see the rest of the project!
